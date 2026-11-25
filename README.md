@@ -1,10 +1,10 @@
 <!-- ===== Animated wave header ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Rao%20Saad%20Aziz&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Intern%20%E2%80%A2%20Developer%20%E2%80%A2%20Creative%20Designer&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Rao%20Saad%20Aziz&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Creative%20Designer&descAlignY=58&descSize=18" alt="header" />
 
 <!-- ===== Animated typing text ===== -->
 <p align="center">
   <a href="https://github.com/Rao-Saad-Aziz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Rao+Saad+Aziz;%F0%9F%A4%96+AI+%2F+ML+Intern;%F0%9F%90%8D+Python+%7C+Django+%7C+FastAPI;%E2%9A%9B%EF%B8%8F+React+%7C+TypeScript+%7C+SQL;%F0%9F%8E%AC+Graphic+Designer+%26+Video+Editor;%E2%9C%A8+Turning+ideas+into+smart+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Rao+Saad+Aziz;%F0%9F%A4%96+AI+%2F+ML+Engineer;%F0%9F%90%8D+Python+%7C+Django+%7C+FastAPI;%E2%9A%9B%EF%B8%8F+React+%7C+TypeScript+%7C+SQL;%F0%9F%8E%AC+Graphic+Designer+%26+Video+Editor;%E2%9C%A8+Turning+ideas+into+smart+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,12 +24,12 @@
 ```python
 class RaoSaadAziz:
     def __init__(self):
-        self.role      = "AI / ML Intern"
+        self.role      = "AI / ML Engineer"
         self.backend   = ["Python", "Django", "FastAPI", "SQL"]
         self.frontend  = ["React", "TypeScript", "JavaScript", "HTML", "CSS"]
         self.creative  = ["Graphic Design", "Video Editing", "After Effects"]
         self.learning  = "Machine Learning & LLM apps"
-        self.contact   = "raosaadaziz456@gmail.com"
+        self.contact   = "raosaadaziz203@gmail.com"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool 🚀")
@@ -45,11 +45,11 @@ me.say_hi()
 </tr>
 </table>
 
-- 🤖 Working as an **AI/ML Intern**, building LLM-powered tools
+- 🤖 Working as an **AI/ML Engineer**, building LLM-powered tools
 - 🐍 Building backends and APIs with **Python, Django & FastAPI**
 - ⚛️ Creating frontends with **React & TypeScript**
 - 🎨 **Graphic designer & video editor**: motion graphics in **After Effects**
-- 📫 Reach me at **raosaadaziz456@gmail.com**
+- 📫 Reach me at **raosaadaziz203@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24c6dc,100:302b63&height=3" alt="divider" />
 
@@ -140,7 +140,7 @@ AI document Q&A assistant: ask questions about company documents and get answers
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-aziz-660641315/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:raosaadaziz456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:raosaadaziz203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/saadio.xom" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 

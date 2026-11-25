@@ -118,6 +118,12 @@ AI document Q&A assistant: ask questions about company documents and get answers
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rao-Saad-Aziz&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
+## 🦖 Dino Run
+
+<p align="center">
+  <img width="100%" src="./dino-run.svg" alt="pixel dino running and jumping over cacti" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
